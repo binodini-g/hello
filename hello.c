@@ -9,6 +9,8 @@
     printf("Hello, I'm Binodini Ganeshkumar!\n");
     printf("Major is Computer Science!\n");
     printf("Minor is Business\n");
-    
+
+    printf("Hello, I'm Ashton Arnburg!\n");
+    printf("Major is Computer Engineering\n");
     return 0;
  }
